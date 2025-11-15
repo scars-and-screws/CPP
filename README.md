@@ -1,4 +1,4 @@
-# 📚 Modern C++ Notes & Mini Labs
+# 📚 Modern C++ Notes & Mini Labs 4 M3 & U
 
 > A curated, example-first notebook of core C++ features, intentionally written for fast revision and future GitHub sharing.
 
