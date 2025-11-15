@@ -1,0 +1,3 @@
+Some of the CPP shit using fstream .
+It's next line bitch 
+Appending some more Shit to the shitty txt.
